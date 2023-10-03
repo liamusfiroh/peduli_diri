@@ -1,0 +1,9 @@
+ID_CATATAN|NIK|NAMA_LENGKAP|TANGGAL|JAM|LOKASI|SUHU
+7559|2022|Bayu|2022-03-05|08:43|Danau Aur Kecamatan Sumberharta Kabupaten Musi Rawas|39 Drajat Celcius
+
+40175|12345|Agus|2022-03-08|10:11|Danau Aur Kecamatan Sumberharta|39 Drajat Celcius
+55468|9111|dicky|2023-02-10|23:06|jepara|20 derajat
+67647|12345|Agus|2023-05-24|11:07|Jepara|20 derajat
+78777|20231805|lia|2023-05-18|09:26|kudus|32
+15013|20235151|lia|2023-05-18|12:44|kudus|32
+91485|202351145|lia musfiroh|2023-10-03|08:05|kudus|32
